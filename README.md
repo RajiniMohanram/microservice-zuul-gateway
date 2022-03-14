@@ -3,7 +3,7 @@
 <h1>Zuul Gateway</h1>
 This handles all requests via localhost:8080. Refer <code>application.properties</code> files for more services info.
 <h3>Dependent Projects</h3>
-h2>Dependent Projects</h2>
+<h2>Dependent Projects</h2>
 <ul>
   <li>
     <a href="https://github.com/RajiniMohanram/microservice1">Microservice 1 (Employee service)</a>
