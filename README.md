@@ -1,7 +1,7 @@
 # microservice-zuul-gateway
 
 <h1>Zuul Gateway</h1>
-This handles all requests via localhost:8080. Refer application.properties files for more services info.
+This handles all requests via localhost:8080. Refer <code>application.properties</code> files for more services info.
 <h3>Dependent Projects</h3>
 h2>Dependent Projects</h2>
 <ul>
